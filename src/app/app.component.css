@@ -1,0 +1,8 @@
+#marg{
+margin: 0px 10px;
+}
+.img{
+    height: 40px;
+    margin: 2px;
+    border-radius: 18px;
+}
